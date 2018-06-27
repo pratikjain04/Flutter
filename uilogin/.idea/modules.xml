@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/uilogin.iml" filepath="$PROJECT_DIR$/uilogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilogin_android.iml" filepath="$PROJECT_DIR$/uilogin_android.iml" />
+    </modules>
+  </component>
+</project>
