@@ -1,0 +1,36 @@
+
+
+[
+  {
+    "name" : "Pratik Jain",
+    "age" : "18",
+    "height": "185",
+    "gender": "Male",
+    "hair_color" : "black"
+
+  },
+  {
+    "name" : "Astha Jain",
+    "age" : "13",
+    "height": "160",
+    "gender": "Female",
+    "hair_color" : "black"
+
+  },
+  {
+    "name" : "Ritika Jain",
+    "age" : "24",
+    "height": "150",
+    "gender": "Female",
+    "hair_color" : "black"
+
+  },
+  {
+    "name" : "Vivek Jain",
+    "age" : "30",
+    "height": "172",
+    "gender": "Male",
+    "hair_color" : "black"
+
+  }
+]
